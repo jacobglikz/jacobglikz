@@ -9,24 +9,17 @@
 <h2 align="center">Hi, I'm Jacob.</h2>
 
 <p align="center">
-  I build internal platforms and developer tools at <a href="https://zetier.com"><strong>Zetier</strong></a>.
+  I build internal platforms and developer tools at <a href="https://zetier.com"><strong>Zetier</strong></a>. <br>
+  Check out Zetier's publicly available products:
 </p>
 
-Most of Zetier's work isn't public. Here are two products you can actually check out:
+<p align="center">
+  <a href="https://zetier.com/forensicscout">
+    <img src="assets/forensic-scout.svg" width="49%" />
+  </a>
+  <a href="https://warpstations.com">
+    <img src="assets/warpstations.svg" width="49%" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://zetier.com/forensicscout" title="Explore Forensic Scout">
-        <img src="assets/forensic-scout.svg" width="100%" alt="Forensic Scout — embedded-device forensics. Explore the product." />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://warpstations.com" title="Explore WarpStations">
-        <img src="assets/warpstations.svg" width="100%" alt="WarpStations — Linux desktops on demand. Explore the product." />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<sub>More about the team and what we do → <a href="https://zetier.com"><strong>zetier.com</strong></a></sub>
+<sub>See more about the team and what we do at <a href="https://zetier.com"><strong>zetier.com</strong></a></sub>
