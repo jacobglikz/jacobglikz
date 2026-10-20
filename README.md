@@ -6,16 +6,11 @@
   </a>
 </p>
 
-<h2 align="center">Hey, I'm Jacob.</h2>
+<h2 align="center">Hi, I'm Jacob.</h2>
 
 <p align="center">
-  I build internal platforms and developer tools at <a href="https://zetier.com"><strong>Zetier</strong></a>.<br />
-  Interested in systems engineering, low-level software, and security.
+  I build internal platforms and developer tools at <a href="https://zetier.com"><strong>Zetier</strong></a>.
 </p>
-
-<br />
-
-### Out in the open
 
 Most of Zetier's work isn't public. Here are two products you can actually check out:
 
