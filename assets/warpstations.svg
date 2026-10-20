@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title description">
+  <title id="title">WarpStations</title>
+  <desc id="description">A navy and violet feature card with an illustration of a Linux desktop running in a browser.</desc>
+  <defs>
+    <clipPath id="card"><rect width="720" height="360" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="720" height="360" fill="#111332"/>
+    <path d="M0 0H720V360H0Z" fill="none" stroke="#3A3368" stroke-width="2"/>
+    <rect x="0" y="0" width="5" height="360" fill="#B877FF"/>
+    <path d="M466 0H720V360H335Z" fill="#1A1844"/>
+    <path d="M628 0H720V242Z" fill="#20164E"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="38" y="51" fill="#C59CFF" font-size="15" font-weight="bold" letter-spacing="3">ZETIER  /  PUBLIC PRODUCT</text>
+      <text x="38" y="163" fill="#FFFFFF" font-size="52" font-weight="bold" letter-spacing="-1.7">WarpStations</text>
+      <path d="M38 190H96" stroke="#C59CFF" stroke-width="4"/>
+      <text x="38" y="234" fill="#C4C0E3" font-size="21">Linux desktops, on demand.</text>
+      <text x="38" y="325" fill="#C59CFF" font-size="16" font-weight="bold" letter-spacing="2">EXPLORE PRODUCT</text>
+      <path d="M258 319H284M278 311L286 319 278 327" stroke="#C59CFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <!-- A browser window showing a remote Linux workspace -->
+    <g transform="translate(456 76)">
+      <rect x="0" y="0" width="236" height="198" rx="12" fill="#0B1025" stroke="#6956AB" stroke-width="2"/>
+      <path d="M0 12Q0 0 12 0H224Q236 0 236 12V34H0Z" fill="#27224F"/>
+      <circle cx="17" cy="17" r="4" fill="#FE7B8B"/><circle cx="31" cy="17" r="4" fill="#F9D17E"/><circle cx="45" cy="17" r="4" fill="#74DCB3"/>
+      <rect x="73" y="9" width="112" height="16" rx="8" fill="#171633"/>
+      <text x="88" y="20" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#B7A8DA">warpstations.com</text>
+      <rect x="12" y="46" width="46" height="138" rx="5" fill="#1B1B3D"/>
+      <path d="M25 62H45M25 77H43M25 92H40M25 115H42M25 130H45" stroke="#61538C" stroke-width="4" stroke-linecap="round"/>
+      <rect x="70" y="46" width="152" height="72" rx="6" fill="#272051"/>
+      <path d="M82 62H151" stroke="#B393FB" stroke-width="6" stroke-linecap="round"/>
+      <path d="M82 77H195" stroke="#6C5EA9" stroke-width="4" stroke-linecap="round"/>
+      <path d="M82 93H173" stroke="#6C5EA9" stroke-width="4" stroke-linecap="round"/>
+      <rect x="82" y="104" width="83" height="4" rx="2" fill="#AD62F2"/>
+      <rect x="70" y="128" width="72" height="56" rx="6" fill="#201D46"/>
+      <rect x="150" y="128" width="72" height="56" rx="6" fill="#201D46"/>
+      <path d="M82 144H116M82 157H128M82 168H110" stroke="#8D83C5" stroke-width="4" stroke-linecap="round"/>
+      <path d="M162 144H196M162 157H207M162 168H188" stroke="#8D83C5" stroke-width="4" stroke-linecap="round"/>
+      <rect x="82" y="175" width="27" height="3" rx="1.5" fill="#21CBF3"/>
+      <rect x="162" y="175" width="37" height="3" rx="1.5" fill="#D76EEF"/>
+    </g>
+    <g fill="none" stroke="#C59CFF" stroke-width="1.5" opacity=".4">
+      <path d="M655 36H680V60"/><path d="M660 301H689V280"/>
+    </g>
+    <circle cx="653" cy="76" r="5" fill="#C59CFF"/>
+  </g>
+</svg>

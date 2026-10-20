@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title description">
+  <title id="title">Forensic Scout — Zetier</title>
+  <desc id="description">A deep-blue clickable-style feature card with an embedded device and forensic scan illustration.</desc>
+  <defs>
+    <clipPath id="card"><rect width="720" height="360" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="720" height="360" fill="#071724"/>
+    <path d="M0 0H720V360H0Z" fill="none" stroke="#27465B" stroke-width="2"/>
+    <rect x="0" y="0" width="5" height="360" fill="#74D8E8"/>
+    <path d="M402 0L520 0 357 360 240 360Z" fill="#092231" opacity=".75"/>
+    <path d="M588 0H720V360H452Z" fill="#0A1D2B" opacity=".6"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="38" y="51" fill="#74D8E8" font-size="15" font-weight="bold" letter-spacing="3">ZETIER  /  PUBLIC PRODUCT</text>
+      <text x="38" y="139" fill="#F6FAFC" font-size="56" font-weight="bold" letter-spacing="-1.7">Forensic</text>
+      <text x="38" y="198" fill="#F6FAFC" font-size="56" font-weight="bold" letter-spacing="-1.7">Scout</text>
+      <path d="M38 225H96" stroke="#74D8E8" stroke-width="4"/>
+      <text x="38" y="263" fill="#B2C6D5" font-size="22">Embedded-device forensics.</text>
+      <text x="38" y="325" fill="#74D8E8" font-size="16" font-weight="bold" letter-spacing="2">EXPLORE PRODUCT</text>
+      <path d="M258 319H284M278 311L286 319 278 327" stroke="#74D8E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <!-- Embedded target: a forensic capture board -->
+    <g transform="translate(470 62)">
+      <rect x="0" y="0" width="204" height="234" rx="13" fill="#0E2936" stroke="#2C5365" stroke-width="2"/>
+      <g stroke="#2C5669" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M38 46H66L82 62V83"/>
+        <path d="M167 46H150L133 64V84"/>
+        <path d="M38 169H66L81 155V143"/>
+        <path d="M168 174H146L131 158V143"/>
+        <path d="M30 108H66M139 108H177"/>
+        <path d="M102 28V63M102 155V205"/>
+      </g>
+      <g fill="#6BD4E9">
+        <circle cx="38" cy="46" r="4"/><circle cx="167" cy="46" r="4"/>
+        <circle cx="38" cy="169" r="4"/><circle cx="168" cy="174" r="4"/>
+        <circle cx="30" cy="108" r="4"/><circle cx="177" cy="108" r="4"/>
+        <circle cx="102" cy="28" r="4"/><circle cx="102" cy="205" r="4"/>
+      </g>
+      <rect x="67" y="65" width="70" height="86" rx="6" fill="#0C1E29" stroke="#74D8E8" stroke-width="2.5"/>
+      <path d="M80 101H124M80 111H110M80 121H118" stroke="#74D8E8" stroke-width="3" stroke-linecap="round" opacity=".95"/>
+      <g stroke="#74D8E8" stroke-width="2.5" stroke-linecap="round">
+        <path d="M58 81H67M58 95H67M58 109H67M58 123H67M58 137H67"/>
+        <path d="M137 81H146M137 95H146M137 109H146M137 123H146M137 137H146"/>
+      </g>
+      <path d="M28 211H174" stroke="#315464" stroke-width="1.5"/>
+      <g font-family="monospace" font-size="12" fill="#75BCCA">
+        <text x="28" y="225">DEVICE // VERIFIED</text>
+      </g>
+    </g>
+    <circle cx="579" cy="179" r="127" fill="none" stroke="#74D8E8" stroke-opacity=".12" stroke-width="1.5"/>
+    <path d="M672 72L692 52M672 52L692 72" stroke="#74D8E8" stroke-opacity=".45" stroke-width="1.6"/>
+  </g>
+</svg>
