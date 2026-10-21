@@ -8,8 +8,9 @@
  <rect width="720" height="360" fill="#100E2B"/>
  <path d="M415 0H534L350 360H240Z" fill="#262052" opacity=".60"/>
  <rect x="0" y="0" width="5" height="360" fill="#AD80FE"/>
- <text x="38" y="174" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900" letter-spacing="-2.3" fill="#FFFFFF">WarpStations</text>
- <path d="M38 194h70" stroke="#BC8EF9" stroke-width="5"/>
+ <text x="38" y="121" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="-1.5" fill="#FFFFFF">Warp</text>
+ <text x="38" y="187" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="-1.5" fill="#FFFFFF">Stations</text>
+ <path d="M38 204h70" stroke="#BC8EF9" stroke-width="5"/>
  <text x="38" y="239" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#CEC9DF" font-weight="700">SCAP &amp; FIPS-compliant VMs</text>
  <text x="38" y="271" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#CEC9DF" font-weight="700">on demand. CMMC support.</text>
  <text x="38" y="327" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="20" letter-spacing="1.1" fill="#C5A0FF">EXPLORE PRODUCT</text>

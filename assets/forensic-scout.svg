@@ -11,7 +11,8 @@
  <text x="38" y="146" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="-1.5" fill="#FFFFFF">Forensic</text>
  <text x="38" y="218" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="-1.5" fill="#FFFFFF">Scout</text>
  <path d="M38 236h70" stroke="#67D6E7" stroke-width="5"/>
- <text x="38" y="278" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#B7C9D5" font-weight="700">Embedded-device forensics.</text>
+ <text x="38" y="271" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#B7C9D5" font-weight="700">Embedded-device</text>
+ <text x="38" y="300" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#B7C9D5" font-weight="700">forensics.</text>
  <text x="38" y="327" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="20" letter-spacing="1.1" fill="#67D6E7">EXPLORE PRODUCT</text>
  <path d="M281 320H306M297 311l9 9-9 9" fill="none" stroke="#67D6E7" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
  <rect x="426" y="82" width="266" height="226" rx="12" fill="#11394A" stroke="#3B91A7" stroke-width="1.2"/>

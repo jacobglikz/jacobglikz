@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://zetier.com/forensicscout">
-    <img src="assets/forensic-scout-0.svg" width="49%" />
+    <img src="assets/forensic-scout.svg" width="49%" />
   </a>
   <a href="https://warpstations.com">
-    <img src="assets/warpstations-0.svg" width="49%" />
+    <img src="assets/warpstations.svg" width="49%" />
   </a>
 </p>
 
