@@ -6,13 +6,6 @@
   </a>
 </p>
 
-<h2 align="center">Hi, I'm Jacob.</h2>
-
-<p align="center">
-  I build internal platforms and developer tools at <a href="https://zetier.com"><strong>Zetier</strong></a>. <br>
-  Check out Zetier's publicly available products:
-</p>
-
 <p align="center">
   <a href="https://zetier.com/forensicscout">
     <img src="assets/forensic-scout.svg" width="49%" />
